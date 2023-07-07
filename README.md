@@ -32,12 +32,16 @@ https://documenter.getpostman.com/view/25625593/2s93zFYzQd
 ```
 git clone https://github.com/blackcode1996/Varthak-Technologies-Assignment.git
 ```
-- After cloning it into your local system install all node modules using
+- Go inside the backend folder
+```
+cd backend
+```
+- After cloning and going inside the backend folder in your local system install all node modules using
 ```
 npm i 
 ```
 - At last run the command (npm start)
 ```
-npm start
+npm run dev
 ```
 
