@@ -105,6 +105,7 @@ Note - You need to pass a valid authorization token in the headers.
 ```http
 GET https://fantastic-tan-crayfish.cyclic.app/books/oldbooks?old=1
 
+Note - This access is limited to the users who have "VIEW_ALL" as roles.
 Note - You need to pass a valid authorization token in the headers.
 ```
 
@@ -112,6 +113,7 @@ Note - You need to pass a valid authorization token in the headers.
 ```http
 GET https://fantastic-tan-crayfish.cyclic.app/books/newbooks?new=1
 
+Note - This access is limited to the users who have "VIEW_ALL" as roles.
 Note - You need to pass a valid authorization token in the headers.
 ```
 
